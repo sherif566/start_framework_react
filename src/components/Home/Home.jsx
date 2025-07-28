@@ -3,7 +3,7 @@ import "../Home/Home.css";
 export default function Home() {
   return (
     <>
-      <div className="container d-flex justify-content-center align-items-center">
+      <div className="home-section d-flex justify-content-center align-items-center vh-100">
         <div className="row text-center">
           <div className="col-12">
             <img src="src/assets/avataaars.svg" alt="" className="mb-3 mt-5" />
