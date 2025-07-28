@@ -20,7 +20,7 @@ export default function Portfolio() {
         {/* Image 1 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/poert1.png'  alt="portfolio 1" />
+            <img className="rounded-3 img-fluid" src='poert1.png'  alt="portfolio 1" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
@@ -30,7 +30,7 @@ export default function Portfolio() {
         {/* Image 2 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/port2.png' alt="portfolio 2" />
+            <img className="rounded-3 img-fluid" src='port2.png' alt="portfolio 2" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
@@ -40,7 +40,7 @@ export default function Portfolio() {
         {/* Image 3 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/port3.png'  alt="portfolio 3" />
+            <img className="rounded-3 img-fluid" src='port3.png'  alt="portfolio 3" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
@@ -50,7 +50,7 @@ export default function Portfolio() {
         {/* Image 4 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/poert1.png' alt="portfolio 4" />
+            <img className="rounded-3 img-fluid" src='poert1.png' alt="portfolio 4" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
@@ -60,7 +60,7 @@ export default function Portfolio() {
         {/* Image 5 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/port2.png' alt="portfolio 5" />
+            <img className="rounded-3 img-fluid" src='port2.png' alt="portfolio 5" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
@@ -70,7 +70,7 @@ export default function Portfolio() {
         {/* Image 6 */}
         <div className="col-lg-4 col-md-6 col-sm-12">
           <div className="portfolio-item">
-            <img className="rounded-3 img-fluid" src='src/assets/port3.png' alt="portfolio 6" />
+            <img className="rounded-3 img-fluid" src='port3.png' alt="portfolio 6" />
             <div className="portfolio-overlay d-flex justify-content-center align-items-center">
               <i className="fa-solid fa-plus fa-3x text-white"></i>
             </div>
